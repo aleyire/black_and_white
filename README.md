@@ -8,5 +8,3 @@ Desafío que consiste en un sitio web que permite  escribir la URL de una imagen
 - Procesamiento de imágenes con JIMP
 - Bajando aplicaciones
 - Devolviendo sitios web estáticos
-
-### Visualización
